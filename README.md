@@ -4,6 +4,6 @@
 2. Get into "Coursework2" directory. <br>
 ```cd Coursework2```
 3. Run main.py. <br>
-```python src/main.py```
+```python -m src.main ```
 ## Testing
 ```python -m pytest```
