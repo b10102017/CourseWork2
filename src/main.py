@@ -1,6 +1,6 @@
 from src.crawler import crawl_site
 from src.indexer import tokenize, build_index
-from src.indexer import tokenize
+from src.search import find_query
 
 index = {}
 
